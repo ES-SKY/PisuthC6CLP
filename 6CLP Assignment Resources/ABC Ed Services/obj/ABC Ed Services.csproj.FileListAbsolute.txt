@@ -1,0 +1,15 @@
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\bin\Debug\ABC Ed Services.exe
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\bin\Debug\ABC Ed Services.pdb
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ResolveAssemblyReference.cache
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.Properties.Resources.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC Ed Services.csproj.GenerateResource.Cache
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC Ed Services.exe
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC Ed Services.pdb
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmMain.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmBilling.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmCourses.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmEnroll.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmNewCourses.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmNewStudents.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmStudentTT.resources
+C:\TAFE\s1 2008\5MLC\Assessments\Prac Test 1\ABC C# Solution\ABC Ed Services\obj\Debug\ABC_Ed_Services.frmViewEnrollments.resources
